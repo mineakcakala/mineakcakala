@@ -1,23 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Merhaba,%20Ben%20Mine%20Akçakala%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Mine Akçakala
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;Building+Full-Stack+Applications;Java+%7C+Spring+Boot+%7C+Vue.js;Learning%2C+Building%2C+and+Improving+Every+Day" alt="Typing SVG" />
-</a>
+**Computer Engineering Student | Full-Stack Developer**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=mineakcakala&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-38BDF8?style=for-the-badge" />
+[LinkedIn](https://www.linkedin.com/in/mine-akcakala) · [Email](mailto:mineakcakala0@gmail.com)
 
 </div>
 
-## Hakkımda
+## About Me
 
-```text
-isim:         Mine Akçakala
-rol:          Bilgisayar Mühendisliği 3. sınıf öğrencisi
-odak:         Java · Spring Boot · Vue.js · Full-Stack Development
-şu_an:        VisuConnect'te yazılım geliştirme stajıma devam ediyorum
-ilgi_alanı:   Backend Geliştirme, REST API, Yazılım Mimarisi, Yapay Zeka
+I am a third-year Computer Engineering student focused on full-stack software development. I build web applications with Java, Spring Boot, and Vue.js, with particular interest in RESTful APIs, database integration, object-oriented design, and clean architecture.
+
+I am currently continuing my Software Development Internship at VisuConnect and improving my skills through real-world projects and open-source development.
+
+## Technical Skills
+
+**Languages:** Java, TypeScript, SQL, C  
+**Backend:** Spring Boot, JDBC, MySQL, MS SQL Server, Firebase, RESTful APIs  
+**Frontend:** Vue.js, Vue Router, Pinia, Vite, HTML5, CSS3  
+**Tools & Practices:** Git, GitHub, OOP, GoF Design Patterns
+
+## Selected Projects
+
+### EconBuddy
+Smart personal finance and receipt management application built with Flutter, FastAPI, PostgreSQL, Redis, ML Kit OCR, and Gemini AI.
+
+- Supports income and expense tracking, financial statistics, and savings goals.
+- Extracts receipt data through OCR and AI-assisted processing.
+- Provides shared expenses, debt summaries, and payment tracking.
+
+### TelcoForce
+Full-stack telecommunications management system built with Spring Boot, Vue.js, MySQL, and Twilio API.
+
+- Simulates subscriber, tariff, billing, and line-management processes.
+- Uses GoF Design Patterns, including State, Decorator, and Observer.
+- Includes role-based dashboards and automated SMS notifications.
+
+### E-Commerce Web Application
+Yemeksepeti-inspired e-commerce application built with Vue.js, TypeScript, Vite, and Firebase.
+
+- Built with modular components and custom state-management structures.
+- Includes order flows, dynamic search, routing, and responsive design.
+
+## Experience
+
+**Software Development Intern — VisuConnect**  
+*Ongoing*
+
+**Software Development Intern — ULUTEK Software Valley Internship Program**
+
+## Education
+
+**Yalova University**  
+Bachelor of Science in Computer Engineering  
+2022 – Present · GPA: 2.75 / 4.00
