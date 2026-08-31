@@ -1,57 +1,44 @@
-<div align="center">
+---
 
-# Mine Akçakala
+## 🛠️ Tech Stack
 
-**Computer Engineering Student | Full-Stack Developer**
+### 💻 Programming Languages
 
-[LinkedIn](https://www.linkedin.com/in/mine-akcakala) · [Email](mailto:mineakcakala0@gmail.com)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-</div>
+### 🌐 Backend, Web & Mobile
 
-## About Me
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-I am a third-year Computer Engineering student focused on full-stack software development. I build web applications with Java, Spring Boot, and Vue.js, with particular interest in RESTful APIs, database integration, object-oriented design, and clean architecture.
+### 🗄️ Databases & Tools
 
-I am currently continuing my Software Development Internship at VisuConnect and improving my skills through real-world projects and open-source development.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Technical Skills
+### 🤖 AI & Automation
 
-**Languages:** Java, TypeScript, SQL, C  
-**Backend:** Spring Boot, JDBC, MySQL, MS SQL Server, Firebase, RESTful APIs  
-**Frontend:** Vue.js, Vue Router, Pinia, Vite, HTML5, CSS3  
-**Tools & Practices:** Git, GitHub, OOP, GoF Design Patterns
+![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-## Selected Projects
+---
 
-### EconBuddy
-Smart personal finance and receipt management application built with Flutter, FastAPI, PostgreSQL, Redis, ML Kit OCR, and Gemini AI.
+## 🎯 What I'm Working On
 
-- Supports income and expense tracking, financial statistics, and savings goals.
-- Extracts receipt data through OCR and AI-assisted processing.
-- Provides shared expenses, debt summaries, and payment tracking.
-
-### TelcoForce
-Full-stack telecommunications management system built with Spring Boot, Vue.js, MySQL, and Twilio API.
-
-- Simulates subscriber, tariff, billing, and line-management processes.
-- Uses GoF Design Patterns, including State, Decorator, and Observer.
-- Includes role-based dashboards and automated SMS notifications.
-
-### E-Commerce Web Application
-Yemeksepeti-inspired e-commerce application built with Vue.js, TypeScript, Vite, and Firebase.
-
-- Built with modular components and custom state-management structures.
-- Includes order flows, dynamic search, routing, and responsive design.
-
-## Experience
-
-**Software Development Intern — VisuConnect**  
-*Ongoing*
-
-**Software Development Intern — ULUTEK Software Valley Internship Program**
-
-## Education
-
-**Yalova University**  
-Bachelor of Science in Computer Engineering  
-2022 – Present · GPA: 2.75 / 4.00
+- 🎓 Studying **Computer Engineering** at Yalova University.
+- 💼 Continuing my **Software Development Internship** at VisuConnect.
+- 🚀 Contributing to and improving **EconBuddy**, a smart personal finance and receipt-management application.
+- 🌱 Developing full-stack applications with **Java, Spring Boot, and Vue.js**.
+- 🤖 Exploring AI-assisted software solutions, including OCR and intelligent receipt processing.
