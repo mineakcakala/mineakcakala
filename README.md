@@ -23,9 +23,9 @@
 
 ## Hakkımda
 
-Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Java, Spring Boot ve Vue.js ile full-stack uygulamalar geliştiriyor; REST API, veritabanı entegrasyonu ve yapay zeka destekli çözümler üzerine çalışıyorum.
+Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Java, Spring Boot ve Vue.js ile full-stack uygulamalar geliştiriyor; REST API, veritabanı entegrasyonu ve yapay zeka destekli çözümler üzerine çalışıyorum.
 
-- 💼 VisuConnect'te Yazılım Geliştirme Stajıma devam ediyorum .
+- 💼 VisuConnect'te Yazılım Geliştirme Stajı yaptım.
 - 🚀 EconBuddy açık kaynak projesi üzerinde geliştirme çalışmaları yürütüyorum.
 - 🌱 Temiz kod, nesne yönelimli tasarım ve sürdürülebilir yazılım mimarileri üzerine kendimi geliştiriyorum.
 
